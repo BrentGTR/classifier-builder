@@ -16,3 +16,6 @@ To build the classifier from the provided images run the following.
 To use the classifier to classify images, run the script under `sample_run/` directory.
 
 ```python run_model.py --image cart.png```
+
+
+Training can take approximately 5 hours on a standard Mac.
